@@ -1,4 +1,4 @@
-# Time-Series-Forecastig-for-Airline-Passenger-Traffic-Dataset
+# Time-Series-Forecasting-for-Airline-Passenger-Traffic-Dataset
 
 
 
